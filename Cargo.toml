@@ -1,9 +1,11 @@
 [package]
 name = "channel-model"
 version = "0.1.0"
-description = "A Rust library for Channel Model"
+description = "Channel Model — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/channel-model"
+repository = "https://github.com/SuperInstance/channel-model"
 edition = "2021"
+
+keywords = ["channel-model"]
 
 [dependencies]
